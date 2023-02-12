@@ -1,9 +1,14 @@
 vg-player {
 
-    height: 100%;
-    width: 100%;
-    background-color: whitesmoke;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 400px;
+    width: 600px;
+    background-color: black;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* position: absolute; */
+}
+video {
+    width: 100% !important;
+    height: auto !important;
 }
